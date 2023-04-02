@@ -1,5 +1,8 @@
 print("Hello world")
 print("I love uestc")
+a = 32
+b = 31
+print(a+b)
 import sys
 import untitled1
 from PyQt5 import QtCore, QtGui, QtWidgets
