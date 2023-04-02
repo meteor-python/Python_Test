@@ -1,7 +1,5 @@
 print("Hello world")
 print("I love uestc")
-a = 3
-print("%d"%a)
 import sys
 import untitled1
 from PyQt5 import QtCore, QtGui, QtWidgets
